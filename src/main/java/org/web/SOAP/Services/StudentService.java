@@ -14,9 +14,9 @@ public class StudentService {
     public StudentService(){
         //añadiendo los estudiantes.
         students.add(new Student(20011136, "Carlos Camacho", "ITT"));
-        students.add(new Student(20011136, "Carlos Camacho", "ITT"));
-        students.add(new Student(20011136, "Carlos Camacho", "ITT"));
-        students.add(new Student(20011136, "Carlos Camacho", "ITT"));
+        students.add(new Student(20171086, "Robert Garcia", "ISC"));
+        students.add(new Student(20151421, "Juan Carlos", "ISC"));
+        students.add(new Student(20185846, "Nicol Guzman", "ISC"));
 
     }
 
