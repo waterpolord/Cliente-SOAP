@@ -9,7 +9,7 @@ url = "http://localhost:7000/ws/EstudianteWebServices?wsdl"
 client = Client(url)
 
 
-# Aqui se ejecutan las mismas funciones que en el service de llava
+# Aqui se ejecutan las mismas funciones que en el service de Java
 def findAll():
     return client.service.findAll()
 
